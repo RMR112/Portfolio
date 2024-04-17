@@ -21,7 +21,7 @@ repository               : "RMR112/Portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "RMR Photo1.jpg"
   name             : "R.M. Rajesh"
   pronouns         : # example: "she/her"  
   bio              : "Data Science"
